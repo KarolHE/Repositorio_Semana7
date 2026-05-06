@@ -1,0 +1,10 @@
+# Dependencias de Node
+node_modules/
+
+# Configuración local y secretos
+.env
+.env.local
+
+# Archivos temporales del sistema
+.DS_Store
+dist/
